@@ -34,7 +34,7 @@
 Смена кодовой страницы на utf-8 (для последующих запусков можно пропустить, если не поменялись ip,port,cmd)
 - ***javac -encoding UTF-8 <filename.java>***  
 Компиляция файла в кодировке utf-8 (для последующих запусков можно пропустить, если не поменялись ip,port,cmd)
-- ***java -Dfile.encoding=UTF-8 <filename>***  
+- ***java -Dfile.encoding=UTF-8 <filenamе>***  
 Запуск файла в кодировке utf-8
 
 Пример запуска ***ClientShip***:  
